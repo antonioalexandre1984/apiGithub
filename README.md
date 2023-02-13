@@ -14,7 +14,7 @@ O objetivo deste projeto é treinar conceitos do react como imutabilidade e de e
 
 ## 💻 O que tem no projeto?
 
-* Front-end bem clean, desenvolvido seguindo o proposto no [Figma](https://www.figma.com/file/pu332zPyxb8uJlrwP0YVwG/Coffee-Delivery-(Copy)?node-id=0%3A1&t=2kV7WOmnFBBVgzD9-0).
+* Front-end bem clean.
 * Integração do front-end com bibliotecas como React-router-dom.
 * Na estilização da aplicação foi escolhido o styled component devido a sua facilidade em sua sintaxe e por deixar o código mais clean e performatico possivel. 
 
