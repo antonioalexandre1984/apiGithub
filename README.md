@@ -59,7 +59,7 @@ $ yarn start
 ### 🔗 Link para o projeto online
 
 
-[ApiGitHub](antonioapigithub.netlify.app)
+[ApiGitHub]([antonioapigithub.netlify.app](https://antonioapigithub.netlify.app/))
 
 &nbsp;
 
