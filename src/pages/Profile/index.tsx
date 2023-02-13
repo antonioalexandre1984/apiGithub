@@ -3,9 +3,6 @@ import { useParams } from 'react-router-dom';
 import { IUser } from '../../components/interfaces/User';
 import { api } from '../../services/axios';
 import { Card } from './components/Card';
-//import { Paginate } from './components/Paginate';
-
-
 
 import { ProfilePageContainer, CardImage, ProfileInfo, ProfileDetails, Repository, Paginate } from './styles';
 
